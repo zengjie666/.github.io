@@ -1,0 +1,7 @@
+{
+    "name": "zeng-jie",
+    "scripts": {
+        "build": "hexo clean & hexo deploy",
+        "dev": "hexo s"
+    }
+}
